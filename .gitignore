@@ -1,0 +1,6 @@
+bin/
+obj/
+allure-report/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
