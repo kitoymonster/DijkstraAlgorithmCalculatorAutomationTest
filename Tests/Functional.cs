@@ -50,7 +50,6 @@ public class Tests
     [Test]
     [Category("UI")]
     [Category("Regression")]
-    [Category("Regression1")]
     public void PerformRandomMode()
     {
         // 1. Open homepage
